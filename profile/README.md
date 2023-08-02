@@ -6,13 +6,14 @@ Dioxus Labs is a small team of open source enthusiasts on a mission to radically
 
 Our goal is simplify the experience of building apps. To date, we've built:
 
-- A UI library for Rust, similar to React / SolidJS
-- A desktop renderer, similar to Electron
-- A mobile renderer, similar to Flutter / React Native
-- An HTML-over-websocket renderer, similar to Phoenix LiveView
-- A backend server framework, similar to NextJS
-- A Rust-based implementation of Flexbox, similar to Facebook's Yoga
-- A (work-in-progress) HTML/CSS renderer in Rust
-- A (work-in-progress) open source Firebase alternative 
+- [A UI library for Rust, similar to React / SolidJS](https://github.com/DioxusLabs/dioxus)
+- [A web renderer, similar to React-dom](https://dioxuslabs.com/learn/0.4/getting_started/wasm)
+- [A desktop renderer, similar to Electron](https://dioxuslabs.com/learn/0.4/getting_started/desktop)
+- [A mobile renderer, similar to Flutter / React Native](https://dioxuslabs.com/learn/0.4/getting_started/mobile)
+- [An HTML-over-websocket renderer, similar to Phoenix LiveView](https://dioxuslabs.com/learn/0.4/getting_started/liveview)
+- [A backend server framework, similar to NextJS](https://dioxuslabs.com/learn/0.4/getting_started/fullstack)
+- [A Rust-based implementation of Flexbox, similar to Facebook's Yoga](https://github.com/DioxusLabs/taffy)
+- [A (work-in-progress) HTML/CSS renderer in Rust](https://github.com/DioxusLabs/blitz)
+- [A (work-in-progress) open source Firebase alternative](https://dioxuslabs.com/deploy)
 
 Our [roadmap is public](https://pointy-quokka-0c3.notion.site/Dioxus-Labs-Public-Roadmap-771939f47d13423abe2a2195b5617555?pvs=4), and we welcome you to [read our story](https://dioxuslabs.com/blog/introducing-dioxus). Feel free to contribute, or just [stop by our Discord](https://discord.gg/XgGxMSkvUM).
