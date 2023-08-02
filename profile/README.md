@@ -4,8 +4,6 @@ Dioxus Labs is a small team of open source enthusiasts on a mission to radically
 
 We want to support developers every step of the way: from designing UIs to deploying backend services. 
 
-In short, Dioxus is fullstack, crossplatform, lightning fast, and fully typed.
-
 To date, we've built:
 
 - [A UI library for Rust, similar to React / SolidJS](https://github.com/DioxusLabs/dioxus)
