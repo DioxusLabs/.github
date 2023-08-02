@@ -15,3 +15,5 @@ Our goal is simplify the experience of building apps. To date, we've built:
 - [A (work-in-progress) open source Firebase alternative](https://dioxuslabs.com/deploy)
 
 Our [roadmap is public](https://pointy-quokka-0c3.notion.site/Dioxus-Labs-Public-Roadmap-771939f47d13423abe2a2195b5617555?pvs=4), and we welcome you to [read our story](https://dioxuslabs.com/blog/introducing-dioxus). Feel free to contribute, or just [stop by our Discord](https://discord.gg/XgGxMSkvUM).
+
+We get funding for our work thanks to [Satellite.im](http://satellite.im), FutureWei Technologies, [YCombinator](http://ycombinator.com), [GitHub](https://accelerator.github.com), and open source donations.
