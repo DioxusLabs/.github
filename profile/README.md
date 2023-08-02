@@ -13,6 +13,7 @@ To date, we've built:
 - [An HTML-over-websocket renderer, similar to Phoenix LiveView](https://dioxuslabs.com/learn/0.4/getting_started/liveview)
 - [A backend server framework, similar to NextJS](https://dioxuslabs.com/learn/0.4/getting_started/fullstack)
 - [A Rust-based implementation of Flexbox, similar to Facebook's Yoga](https://github.com/DioxusLabs/taffy)
+- [The fastest js-framework-benchmark implementation](https://github.com/Demonthos/sledgehammer_bindgen) 
 - [A (work-in-progress) HTML/CSS renderer in Rust](https://github.com/DioxusLabs/blitz)
 - [A (work-in-progress) open source Firebase alternative](https://dioxuslabs.com/deploy)
 
