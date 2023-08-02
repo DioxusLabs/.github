@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/master/notes/header.svg" alt="Dioxus" />
 
-Dioxus Labs is a small team of open source enthusiasts on a mission to radically simplify app development.
+Dioxus Labs is a small team of full-time open source enthusiasts on a mission to simplify app development.
 
 We want to support developers every step of the way: from designing UIs to deploying backend services. 
 
