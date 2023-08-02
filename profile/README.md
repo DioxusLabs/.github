@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/master/notes/header.svg" alt="Dioxus" />
 
-Welcome!
-
 Dioxus Labs is a small team of open source enthusiasts on a mission to radically streamline app development.
 
 Our goal is simplify the experience of building apps. To date, we've built:
