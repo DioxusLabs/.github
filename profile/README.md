@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/master/notes/header.svg" alt="Dioxus" />
 
-Dioxus Labs is a small team of open source enthusiasts on a mission to radically streamline app development.
+Dioxus Labs is a small team of open source enthusiasts on a mission to radically simplify app development.
 
-Our goal is simplify the experience of building apps. We want to support developers every step of the way: from designing UIs to deploying backend services. In short, Dioxus is fullstack, crossplatform, lightning fast, and fully typed.
+We want to support developers every step of the way: from designing UIs to deploying backend services. 
+
+In short, Dioxus is fullstack, crossplatform, lightning fast, and fully typed.
 
 To date, we've built:
 
