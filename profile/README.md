@@ -1,4 +1,16 @@
-<img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/master/notes/header.svg" alt="Dioxus" />
+<p>
+    <p align="center" >
+      <!-- <img src="./notes/header-light-updated.svg#gh-light-mode-only" >
+      <img src="./notes/header-dark-updated.svg#gh-dark-mode-only" > -->
+      <!-- <a href="https://dioxuslabs.com">
+          <img src="./notes/flat-splash.avif">
+      </a> -->
+      <img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/main/notes/splash-header-darkmode.svg#gh-dark-mode-only" style="width: 80%; height: auto;">
+      <img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/main/notes/splash-header.svg#gh-light-mode-only" style="width: 80%; height: auto;">
+      <img src="https://raw.githubusercontent.com/DioxusLabs/dioxus/main/notes/image-splash.avif">
+      <br>
+    </p>
+</p>
 
 Dioxus Labs is a small team of full-time open source enthusiasts on a mission to simplify app development.
 
